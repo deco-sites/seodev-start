@@ -157,6 +157,10 @@ function Footer({
         "href": "/trocaedevolucao",
         "label": "Troca e devolução",
       },
+      {
+        "href": "/teste",
+        "label": "Teste",
+      },
     ],
   }],
   social = {
